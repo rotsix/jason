@@ -2,7 +2,7 @@
 
 ## Installation
 
-### Never but in case of, from pipy
+### Never but in case of, from pypi
 
 ```
 pip install jason
