@@ -60,7 +60,6 @@ $ pytest
 
 ## TODO
 
-- proper api
 - query the produced ast (`api.py:query`)
   - https://goessner.net/articles/JsonPath/
   - filters and ranges
